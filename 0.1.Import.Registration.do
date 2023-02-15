@@ -25,11 +25,6 @@ if c(username)=="enrico" {
 	gl box "/Users/enrico/Library/CloudStorage/Box-Box/ReBuild Kenya_Data"
 	gl github "/Users/enrico/Git/reBuild_Kenya"
 }
-else if ("`c(username)'" == "az332") {
-	global irc "D:\Box\GU-partner data transfers-irc rebuild kenya"
-	global box "D:/Box/ReBuild Kenya_Data"
-	global github "D:/reBuild_Kenya"
-}
 else if ("`c(username)'" == "bl517") {
 	global irc "C:/Users/bl517/Box/GU-partner data transfers-irc rebuild kenya"
 	global box "C:/Users/bl517/Box/ReBuild Kenya_Data"
